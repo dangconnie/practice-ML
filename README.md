@@ -1,4 +1,4 @@
-# Beginner's Code and Notes on Data Analysis
+# Beginner's Code and Notes on ML
 
 #### Most of my notes are usually within the code
 
